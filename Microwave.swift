@@ -5,7 +5,7 @@
    2021/04/26
 */
 
-let sub : Double = 1;
+let sub:Double = 1;
 let pizza:Double = 0.75
 let soup:Double = 1.75
 let maxQuantity:Double = 3
